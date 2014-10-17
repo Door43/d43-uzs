@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[uzs:home|Door43 (uzs)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-uzs|d43-uzs repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-uzs/archive/master.zip|d43-uzs.zip]]
+
+**Recent Changes**
+{{changes>ns = uzs}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/uzs|Ethnologue data]]
+
